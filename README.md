@@ -1,3 +1,3 @@
 # Facial Detection
 
-Just playing around with face-testing-api
+Just playing around with face-api-js
